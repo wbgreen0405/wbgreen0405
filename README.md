@@ -1,6 +1,20 @@
 ### Hi there 👋
 
 <!--
+
+## Technical Skills
+
+### Operating systems
+
+### Database/Server
+
+###Programm Language
+
+## Certificates
+
+### Other Software Tools
+
+
 **wbgreen0405/wbgreen0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
