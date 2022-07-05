@@ -1,9 +1,18 @@
-![](https://komarev.com/ghpvc/?username=wbgreen0405-github-username&color=blueviolet)
-
-<!-- https://github.com/wbgreen0405/ -->
+<!-- https://github.com/ShahriarShafin/ -->
 <!-- April 15, 2021 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=wbgreen0405-github-username&color=blueviolet)
+
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" >William Green</a></b>
+        </samp>
+</h3>
+<br>
 
 ### Hi there 👋
 
