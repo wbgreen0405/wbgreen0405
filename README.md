@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=wbgreen0405-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=wbgreen0405-github-username&color=blueviolet)
 
 <!-- https://github.com/wbgreen0405/ -->
 <!-- April 15, 2021 -->
