@@ -5,6 +5,8 @@
 <!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=wbgreen0405-github-username&color=blueviolet)
 
+<img align="right" alt="GIF" src="https://github.com/wbgreen0405/wbgreen0405/blob/main/A%20Man%20Coding%20Lofi%20Animation.gif?raw=true" width="500" height="320" />
+
 
 <!-- Intro  -->
 <h3 align="center">
@@ -14,10 +16,6 @@
 </h3>
 <br>
 
-
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
 ### Languages, Tools, and Skills 🛠
