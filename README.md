@@ -39,6 +39,22 @@
  <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+## Portfolio:
+
+### External projects 
+
+1. Omdena + Consenz project: <a href="https://omdena.com/projects/voice-assistance/">Improving Driver Voice Assistance Using Machine Learning to Reduce Road Accidents </a> in the role of ML Engineer and Task Leader
+
+    **Results**: The accomplishments of this project include defining the project pipeline, building models for filtering driver assistant voice when a driver and the assistant speak simultaneously, and developing models for music and restaurant recommendation. In addition, the team-built models for driver mood with personality classification, as well as developed a conversation agent that recognizes a wide range of intents and entities.
+        
+- Omdena + SexedPL's challenge: <a href="https://omdena.com/projects/hashimoto-disease/">Modeling Triggers and Symptoms of Hashimoto’s Disease</a> in the role of ML Engineer and Task Leader 
+
+    **Results**: The accomplishments of this project include a Streamlit Dashboard and final report. 
+
+### Talks
+
+
+
 <!--
 
 ## Technical Skills
@@ -52,6 +68,11 @@
 ## Certificates
 
 ### Other Software Tools
+
+
+## Portfolio:
+
+### External projects 
 
 
 **wbgreen0405/wbgreen0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
