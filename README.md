@@ -65,9 +65,23 @@
 - <a href="https://medium.com/@dskswu/machine-learning-with-a-heart-predicting-heart-disease-b2e9f24fee84">Machine Learning with a Heart: Predicting Heart Disease/a>
 
 ### Talks
-
-
-
+        
+**Global AI Bootcamp London 2022** hosted by Advancing Analytics
+<p float="left">
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcamp.jpg" width="300" />
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcampII.jpg" width="300" /> 
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcampIII.jpg" width="300" />
+</p>
+        
+### Certifications and Digital Badges
+     
+<p float="left">
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/microsoft-certified-azure-ai-engineer-associate.png" width="100" />
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/microsoft-certified-azure-ai-fundamentals.png" width="100" /> 
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/microsoft-certified-azure-data-scientist-associate.png" width="100" />
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/microsoft-certified-azure-fundamentals.png" width="100" />
+</p>
+        
 <!--
 
 ## Technical Skills
