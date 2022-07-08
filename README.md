@@ -51,6 +51,19 @@
 
     **Results**: The accomplishments of this project include a Streamlit Dashboard and final report. 
 
+### Private projects
+
+
+### Articles on ML and Python
+- <a href="https://medium.com/@dskswu/siraj-raval-100-days-of-ml-coding-challenge-7b985d8a4e82">Siraj Raval: 100 Days of ML Coding Challenge</a>
+- <a href="https://medium.com/@dskswu/scalars-vectors-and-matrices-oh-my-9054d2bda1f9">Scalars, Vectors and Matrices, oh my!</a>
+- <a href="https://medium.com/@dskswu/linear-algebra-aint-nobody-got-the-time-for-that-ee0c98cfdf25">Linear Algebra! Ain’t Nobody Got The Time For That/a>
+- <a href="https://medium.com/@dskswu/chapter-3-probability-and-information-theory-ecad8b1aeefe">Chapter 3: Probability and Information Theory</a>
+- <a href="https://medium.com/@dskswu/wayement-calculus-e7577fabd58f">WAYEMENT…. Calculus!</a>
+- <a href="https://medium.com/@dskswu/oh-my-guudness-machine-learning-46fc4acf745d">Oh My Guudness….. Machine Learning</a>
+- <a href="https://medium.com/@dskswu/oh-my-guudness-machine-learning-ii-1068a7abc09b">Oh My Guudness….. Machine Learning II/a>
+- <a href="https://medium.com/@dskswu/machine-learning-with-a-heart-predicting-heart-disease-b2e9f24fee84">Machine Learning with a Heart: Predicting Heart Disease/a>
+
 ### Talks
 
 
