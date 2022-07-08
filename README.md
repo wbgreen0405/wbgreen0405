@@ -64,15 +64,25 @@
 - <a href="https://medium.com/@dskswu/oh-my-guudness-machine-learning-ii-1068a7abc09b">Oh My Guudness….. Machine Learning II/a>
 - <a href="https://medium.com/@dskswu/machine-learning-with-a-heart-predicting-heart-disease-b2e9f24fee84">Machine Learning with a Heart: Predicting Heart Disease/a>
 
+### Kaggle 
+
+#### **HuBMAP Awards: Hacking the Kidney on Kaggle** 
+
+* Diversity and Presentation Award 
+
+<p float="left">
+  <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/hacking%20the%20kidney.jpg" width="300" /> 
+</p>
+
+
 ### Talks
-        
 **Global AI Bootcamp London 2022** hosted by Advancing Analytics
 <p float="left">
   <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcamp.jpg" width="300" />
   <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcampII.jpg" width="300" /> 
   <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcampIII.jpg" width="300" />
 </p>
-        
+       
 ### Certifications and Digital Badges
      
 <p float="left">
@@ -82,6 +92,13 @@
   <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/microsoft-certified-azure-fundamentals.png" width="100" />
 </p>
         
+
+
+
+
+
+
+
 <!--
 
 ## Technical Skills
