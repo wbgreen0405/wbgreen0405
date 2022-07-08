@@ -47,7 +47,7 @@
 
     **Results**: The accomplishments of this project include defining the project pipeline, building models for filtering driver assistant voice when a driver and the assistant speak simultaneously, and developing models for music and restaurant recommendation. In addition, the team-built models for driver mood with personality classification, as well as developed a conversation agent that recognizes a wide range of intents and entities.
         
-- Omdena + SexedPL's challenge: <a href="https://omdena.com/projects/hashimoto-disease/">Modeling Triggers and Symptoms of Hashimoto’s Disease</a> in the role of ML Engineer and Task Leader 
+2. Omdena + SexedPL's challenge: <a href="https://omdena.com/projects/hashimoto-disease/">Modeling Triggers and Symptoms of Hashimoto’s Disease</a> in the role of ML Engineer and Task Leader 
 
     **Results**: The accomplishments of this project include a Streamlit Dashboard and final report. 
 
