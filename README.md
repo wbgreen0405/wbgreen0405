@@ -59,6 +59,13 @@
 </p>
 
 <!--START_SECTION:badges-->
+
+[![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/110x110/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/f758f5e4-50a8-4437-82fd-f2200708bb00 "Microsoft Certified Trainer 2023-2024")
+[![CompTIA CTT+ Virtual Classroom Trainer Certification](https://images.credly.com/size/110x110/images/f16139cd-cdf2-4b6d-a3bb-3941718fb0e9/CompTIA_CTT_2B.png)](http://www.credly.com/badges/ed916eb8-4155-4a81-b545-5a3d659c1d64 "CompTIA CTT+ Virtual Classroom Trainer Certification")
+[![Microsoft Certified: Azure Data Scientist Associate](https://images.credly.com/size/110x110/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png)](http://www.credly.com/badges/2079ddb9-15d2-46be-b81e-9fecd95ab5fc "Microsoft Certified: Azure Data Scientist Associate")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/6de870d7-7101-4b12-9dc6-5d6e1cdb0f40 "Microsoft Certified: Azure Fundamentals")
+[![Microsoft Certified: Azure AI Engineer Associate](https://images.credly.com/size/110x110/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png)](http://www.credly.com/badges/1d4a9060-5726-414a-a760-9e109cb4fc1f "Microsoft Certified: Azure AI Engineer Associate")
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/82562771-f464-4821-af7b-df0c829dd55e "Microsoft Certified: Azure AI Fundamentals")
 <!--END_SECTION:badges-->
        
 ### Certifications and Digital Badges
