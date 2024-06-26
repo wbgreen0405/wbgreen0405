@@ -57,6 +57,9 @@
   <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcampII.jpg" width="300" /> 
   <img src="https://github.com/wbgreen0405/wbgreen0405/blob/main/img/GlobalAIBootcampIII.jpg" width="300" />
 </p>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
        
 ### Certifications and Digital Badges
      
