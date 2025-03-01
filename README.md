@@ -137,3 +137,98 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hi, I'm William Green! 👋
+
+<p align="center">
+  <!-- Profile views and GitHub stats -->
+  <img src="https://komarev.com/ghpvc/?username=wbgreen0405&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wbgreen0405?label=Followers&style=flat-square" alt="Followers" />
+</p>
+
+<p align="center">
+  <!-- Dynamic GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wbgreen0405&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbgreen0405&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+- **Innovative Machine Learning**  
+  From building fraud detection models with TensorFlow and XGBoost to developing predictive analytics for agricultural sustainability, I turn complex data challenges into actionable insights.
+  
+- **Cloud & Automation Expert**  
+  I design scalable cloud solutions using Azure and AWS, ensuring efficient ETL pipelines and real-time analysis.
+  
+- **Creative Problem Solver**  
+  Leveraging 15+ years of experience, I continuously explore new technologies to optimize processes and drive innovation.
+
+---
+
+## 🔧 Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-4.0+-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/TensorFlow-E34F26?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=MicrosoftAzure&logoColor=white" alt="Azure" />
+  <!-- Add more badges as needed -->
+</p>
+
+---
+
+## 🌟 Projects & Highlights
+
+- **Fraud Detection Systems:**  
+  Built multimodal models using TensorFlow, XGBoost, and YOLOv5 to improve claim analysis and reduce fraudulent payouts.
+
+- **AI for Agriculture:**  
+  Developed predictive models for crop yield and pest detection, empowering smallholder farmers with actionable insights.
+
+- **Volunteer Work at Omdena:**  
+  Led projects that enhanced credit risk assessment accuracy and developed forecasting models to support sustainable agriculture.
+
+- **Analytics Leadership:**  
+  Created and deployed ETL pipelines and statistical models that streamline operations and improve decision-making.
+
+---
+
+## 🌱 Interests
+
+- **Continuous Learning:**  
+  I'm always exploring new tools and techniques to stay ahead in machine learning and cloud technologies.
+  
+- **Community & Collaboration:**  
+  I actively participate in volunteer projects and open-source initiatives to drive innovation through teamwork.
+  
+- **Innovation in AI:**  
+  Passionate about the latest advancements in AI, from deep learning to real-time data processing.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out or connect with me:
+
+- **Email:** [william.green@explainableai2021.com](mailto:william.green@explainableai2021.com)
+- **LinkedIn:** [greenwilliam](https://www.linkedin.com/in/greenwilliam/)
+
+---
+
+*I’m excited to share my projects and collaborate on innovative ideas. Thanks for stopping by!*
